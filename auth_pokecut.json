@@ -15,47 +15,7 @@
       "value": "false",
       "domain": "www.pokecut.com",
       "path": "/",
-      "expires": 1759850598,
-      "httpOnly": false,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "isIos",
-      "value": "false",
-      "domain": "www.pokecut.com",
-      "path": "/",
-      "expires": 1759416844,
-      "httpOnly": false,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "isMobie",
-      "value": "false",
-      "domain": "www.pokecut.com",
-      "path": "/",
-      "expires": 1759416844,
-      "httpOnly": false,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "DEREPOR",
-      "value": "1",
-      "domain": "www.pokecut.com",
-      "path": "/",
-      "expires": 1759416844,
-      "httpOnly": false,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "DID",
-      "value": "b72e1302-f145-4bbd-be9c-4c5eba98ccf0",
-      "domain": "www.pokecut.com",
-      "path": "/",
-      "expires": 1759416844,
+      "expires": 1775184424,
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
@@ -65,7 +25,7 @@
       "value": "52724c91-a5b8-4f11-8602-fb9aca2e07d534d3fc",
       "domain": ".www.pokecut.com",
       "path": "/",
-      "expires": 1759850600,
+      "expires": 1775184425,
       "httpOnly": false,
       "secure": true,
       "sameSite": "Lax"
@@ -142,50 +102,90 @@
     },
     {
       "name": "LANNAME",
-      "value": "U2FsdGVkX18p8PPIX7NED%2FMG3oBDeiVn6IN6NVtE9%2BMK%2FIf2N6n2nlaNDyhjcmBb",
+      "value": "U2FsdGVkX1%2FhfzR%2BdCn%2BPtdFdwPTvfCnepEEmi%2FIDWzMGr31P5YYO8xsjK2cm%2BuJ",
       "domain": "www.pokecut.com",
       "path": "/",
-      "expires": 1759850598,
+      "expires": 1775184424,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "isIos",
+      "value": "false",
+      "domain": "www.pokecut.com",
+      "path": "/",
+      "expires": 1775184424,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "isMobie",
+      "value": "false",
+      "domain": "www.pokecut.com",
+      "path": "/",
+      "expires": 1775184424,
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
     },
     {
       "name": "configured",
-      "value": "U2FsdGVkX1%2F4t9FJWHeXQf%2B%2FM91fQrFp%2BO412%2FOtVik%3D",
+      "value": "U2FsdGVkX193HFsogeINXUCIbEzOlWOXtnhRfLfc%2BIA%3D",
       "domain": "www.pokecut.com",
       "path": "/",
-      "expires": 1759850598,
+      "expires": 1775184424,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "DEREPOR",
+      "value": "1",
+      "domain": "www.pokecut.com",
+      "path": "/",
+      "expires": 1775184424,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "DID",
+      "value": "9a946afc-a6c2-4d29-b279-bc5eca4a3590",
+      "domain": "www.pokecut.com",
+      "path": "/",
+      "expires": 1775184424,
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
     },
     {
       "name": "SP_ST",
-      "value": "1759245798980",
+      "value": "1759632424117",
       "domain": "www.pokecut.com",
       "path": "/",
-      "expires": 1759850598,
+      "expires": 1775184424,
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
     },
     {
       "name": "BTINFO",
-      "value": "U2FsdGVkX1%2F1USdem%2BVQaciVObDA9JADf7jBnO0S9Nce5T1uPcVkkj5hEjDcal3tU9zkD06Z75Le3ZRh1Xw50NgiARiqZwZn47LiCaHx6n13dCCGiwtX96n4fVnRqEHwBWu2DdjvwLesa4%2Bh%2Bg%2FvpU0PreC%2Fy8%2BmbCFrxtzI9nLViYJ9mghW8sflbhdnhxCbFrJUMDVykEn%2BWiD9QGLqnC3xwfru5OvADnf%2FwFfXzwN5OrPZbGJF4VTdQmLDty72",
+      "value": "U2FsdGVkX18%2FjrWhQbuTu1x13IMX8GcrndLZEmgQHxicf8Vhh%2F87JhImyKTHEopYv53USu49KZVYIjyuZFkIhmxceblWkXUvD2wpFvxpb48r1xSEZZC32WjH4C0Mo1oImDU5tXjt3zDIb%2FrY7AVfL5GsI%2BlH0a7lgcXn7cHEMnQ%2BnZyokCCFLoO%2B32ytGm9q3tIiDB5is32EFDJ9y%2B60gFZbkPJD2W0dpaPos2hhO0NtJSTV%2F8yynmx05PJxKZ1H",
       "domain": "www.pokecut.com",
       "path": "/",
-      "expires": 1759850599,
+      "expires": 1775184424,
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
     },
     {
       "name": "__stripe_sid",
-      "value": "86e2a9ea-d309-4ad6-8e32-c5e239e7f9a716a3da",
+      "value": "600d1b3f-9e66-4807-b150-4c93d2e2da8f4034d2",
       "domain": ".www.pokecut.com",
       "path": "/",
-      "expires": 1759247600,
+      "expires": 1759634225,
       "httpOnly": false,
       "secure": true,
       "sameSite": "Lax"
