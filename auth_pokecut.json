@@ -15,7 +15,7 @@
       "value": "false",
       "domain": "www.pokecut.com",
       "path": "/",
-      "expires": 1775449491,
+      "expires": 1775896343,
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
@@ -25,29 +25,9 @@
       "value": "52724c91-a5b8-4f11-8602-fb9aca2e07d534d3fc",
       "domain": ".www.pokecut.com",
       "path": "/",
-      "expires": 1775449757,
+      "expires": 1775896350,
       "httpOnly": false,
       "secure": true,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "i81n_redirected",
-      "value": "vi",
-      "domain": "www.pokecut.com",
-      "path": "/",
-      "expires": 1774797798,
-      "httpOnly": false,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "lan",
-      "value": "vi",
-      "domain": "www.pokecut.com",
-      "path": "/",
-      "expires": -1,
-      "httpOnly": false,
-      "secure": false,
       "sameSite": "Lax"
     },
     {
@@ -91,36 +71,6 @@
       "sameSite": "Lax"
     },
     {
-      "name": "LANNAME",
-      "value": "U2FsdGVkX18IH6Ho7CGqNDug%2BE%2BprrzkgLMsr06KEFNtQcqvR6bQQQEW32g9JxjQ",
-      "domain": "www.pokecut.com",
-      "path": "/",
-      "expires": 1775449491,
-      "httpOnly": false,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "configured",
-      "value": "U2FsdGVkX185ckGiZerHrUnIkaHidzgHpIlfdxFpr%2FI%3D",
-      "domain": "www.pokecut.com",
-      "path": "/",
-      "expires": 1775449491,
-      "httpOnly": false,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "__stripe_sid",
-      "value": "1f58da6c-5789-4d42-95b0-fd47bc95ae19c3ddb3",
-      "domain": ".www.pokecut.com",
-      "path": "/",
-      "expires": 1759899557,
-      "httpOnly": false,
-      "secure": true,
-      "sameSite": "Lax"
-    },
-    {
       "name": "ACCTINFO",
       "value": "U2FsdGVkX18gGge1eVT2Cr5cAbZw1QT9%2BIYGAJbOnuZEWFxrKIwnAvGpIwgsdNQfYmQ%2F7OQ14GCrUr%2FaLlYtZDsoIXSrGH%2FO7LSfslcBF6XOv4MKyUP9mg9xhcpIN5ii1YSqPjMPkF0LOeWehUoTu46RHLnM2DFLQd8SqnvPVzgPrMkWgxMznT4RzHaTc%2FrlcXhOYLoUK98yBQBQcNyAKw83%2Bl6IHmULoT8jKLcCLRbt9A2CYp9x%2FTO6PjfsEn9fFkzfPhwFCjdZE9rwqGDp41CFIatTIUOsBId5hMOJCzmZ4jUGR1uJUhAaATOv3EMH2ikGyAn2icXRoO6kf%2FmmavqY2xOJ%2BWYViOLvLs%2BNP%2Fdzi9RyqO7jv%2B%2FQKLqbgrHcWfLrXLGnZmrn9sNnswgQ6EEIqCjHxcOUP2jG%2F6D%2BdZAMAFTkLanDC54s99by%2ByASitVfqmEOO4TbtyqJ66qo%2BgkZTTEqfPFzTqgJKOUegHs%3D",
       "domain": "www.pokecut.com",
@@ -141,21 +91,81 @@
       "sameSite": "Lax"
     },
     {
-      "name": "SP_ST",
-      "value": "1759897757159",
+      "name": "ORIENTATION",
+      "value": "landscape-primary",
       "domain": "www.pokecut.com",
       "path": "/",
-      "expires": 1775449757,
+      "expires": 1775449838,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "i81n_redirected",
+      "value": "en",
+      "domain": "www.pokecut.com",
+      "path": "/",
+      "expires": 1775896336,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "lan",
+      "value": "en",
+      "domain": "www.pokecut.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "LANNAME",
+      "value": "U2FsdGVkX18gJ1UdaJrxQmjGRLL58Pxr1ZNq27oZNd0%3D",
+      "domain": "www.pokecut.com",
+      "path": "/",
+      "expires": 1775896343,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "configured",
+      "value": "U2FsdGVkX18XNczpTjTSx1FuN4DFPV%2F%2BokXpKSkGCSA%3D",
+      "domain": "www.pokecut.com",
+      "path": "/",
+      "expires": 1775896343,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__stripe_sid",
+      "value": "d209ad4b-3858-4bef-bcc5-0936d3b9041f43cee2",
+      "domain": ".www.pokecut.com",
+      "path": "/",
+      "expires": 1760346150,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "SP_ST",
+      "value": "1760344351766",
+      "domain": "www.pokecut.com",
+      "path": "/",
+      "expires": 1775896351,
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
     },
     {
       "name": "BTINFO",
-      "value": "U2FsdGVkX1%2BcV3Nu7mwMTZMKKChYeUug8rcIxEXPxWut7qj2UEY6tinMFpdZ4a0qxf34STfcRlpDKBP8PgjYQ8eWrkNyJYiNfd6StotrCjXq9JUNOBe5b%2FHpnbb8GS%2B2Yhq1FnvkubzU7I92PgMBxMyUfWgqrIXxsZMHbqyD6Pe9YVlsiUYii2HYeEAEpSVyotgqQpuOzMnrczhdmdLgc%2FVvaWk4jFncsuIG9bCEia3DA8yojB8r8xKyRDyo9f19",
+      "value": "U2FsdGVkX18sUUjGKSGSd4Swdc4nihxizjNu5t%2BCq2C%2Bq4tjV4MitO61VdSAIginP2OdL%2BxhoonTA4kEJIkpe3wxU0%2BLnR%2FDsSocxiKhnehXczEk2HLxgQuHdpwjrIo9ZByBGwtBNrCdcWOKflSaecoGcC3%2FSsM1AdQQ4gx83FHw%2By%2FMez8x7aYDm7tEl2wEPoNAN7BUnmMIUrrPYUqhzG23cW22GRk5W3GZkV4Q8RiCkbQPHFz7BaXCZleSbcrx",
       "domain": "www.pokecut.com",
       "path": "/",
-      "expires": 1775449757,
+      "expires": 1775896352,
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
